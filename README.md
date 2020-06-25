@@ -12,3 +12,5 @@ Neste curso não vi Js nem nada do backend, apenas HTML e CSS <br />
 Não foi utilizado uma ferramenta como Live Server <br />
 A organização das pastas não ocorreu <br />
 Não foi utilizado o Nunjucks
+
+[link para o GitHub Pages](https://phelipecomph.github.io/ALURA-Barbearia)
